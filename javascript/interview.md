@@ -6,7 +6,7 @@
 - 이벤트루프를 통해 콜스택이 비었을 경우 실행한다.
 - 비동기 처리를 위해 Promise, Async Await 를 사용 할 수 있다.
 
-``Q. How Javascript Asynchronous Works
+Q. How Javascript Asynchronous Works
 - Asynchronous is a way in which a request can be sent and then executed regardless of its response.
 - JavaScript is a single thread. This allows asynchronous processing based on event loops.
 - It consists of Web APIs, Event Table, Callback Queue, EventLoop, and more provided by the browser.
